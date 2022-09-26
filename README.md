@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Amrit R Magar
 #### I am a student.
-![I am a student.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am learning programming.
 
