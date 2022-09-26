@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Amrit R Magar
+### Hi there 👋, My name is Amrit R Magar.👦
 #### I am a student.
 
-I am learning programming.
+ #### I am learning programming.
 
-##Skills
+## Skills
 <ul>
   <li>☕ JAVA</li>
   <li>💻 HTML, CSS, JS </li>
