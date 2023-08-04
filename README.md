@@ -22,4 +22,4 @@
 ### <B> Random Quote </B>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- [![](https://visitcount.itsvg.in/api?id=pray3m&icon=5&color=0)](https://visitcount.itsvg.in)
+ <right> [![](https://visitcount.itsvg.in/api?id=pray3m&icon=5&color=0)](https://visitcount.itsvg.in) </right>
