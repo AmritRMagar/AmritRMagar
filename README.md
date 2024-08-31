@@ -11,7 +11,7 @@
  🚀 I’m on a journey to expand my knowledge
 
 🎓 I’m dedicated to continuous learning
- </div>
+</div>
 
 <div align="center"> 
   <a href="mailto:arokahamagar92@gmail.com">
@@ -26,12 +26,11 @@
   <a href="https://www.instagram.com/amrit_r._magar" >
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
   </a>
-
 </div>
 
- <hr/>
+<hr/>
 
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,linux" />
@@ -49,15 +48,13 @@
   <br/><br/><br/>
 </div>
 
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=AmritRMagar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=AmritRMagar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmritRMagar&theme=gruvbox&hide_border=true&background=522121&fire=FF7F1E" alt="GitHub Streak" /></a>
-
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmritRMagar&theme=gruvbox&hide_border=true&background=522121&fire=FF7F1E" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
@@ -66,7 +63,11 @@
 
 <br/>
 
-<h2 align="center"> Random Quote </h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">Random Quote</h2>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AmritRMagar.AmritRMagar" />
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AmritRMagar.AmritRMagar" />
+</p>
