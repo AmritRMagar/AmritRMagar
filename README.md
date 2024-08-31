@@ -54,7 +54,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritRMagar&show_icons=true&locale=en&theme=dracula" alt="AmritRMagar"/>
     <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=AmritRMagar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <a href="https://git.io/streak-stats"><img width=390 src="https://streak-stats.demolab.com?user=AmritRMagar&theme=gruvbox&hide_border=true&background=522121&fire=FF7F1E" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmritRMagar&theme=gruvbox&background=522121&fire=FF7F1E" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
