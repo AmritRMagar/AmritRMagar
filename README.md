@@ -26,6 +26,12 @@
   <a href="https://www.instagram.com/amrit_r._magar" >
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
   </a>
+<a href="https://portfolio02-olive.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+</a>
+</a>
+</a>
 </div>
 
 <hr/>
